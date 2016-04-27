@@ -2,8 +2,6 @@
 //  Game.swift
 //  FizzBuzz
 //
-//  Created by c on 19/04/2016.
-//  Copyright © 2016 chris. All rights reserved.
 //
 
 import Foundation
